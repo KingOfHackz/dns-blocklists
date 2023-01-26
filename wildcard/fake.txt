@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 24 Jan 2023 23:28 UTC
-# Version: 2023.0124.2328.22
+# Last modified: 26 Jan 2023 13:27 UTC
+# Version: 2023.0126.1327.06
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 5413
+# Domains: 5412
 #
 *.willhaben.at.04300.id
 *.11trikots.com
@@ -611,7 +611,6 @@
 *.blumestar.com
 *.blunada.de
 *.blushysilk.com
-*.blvcks.com
 *.bmw-e36.de
 *.bntol-mietwagen.de
 *.boardss.de
@@ -1483,7 +1482,6 @@
 *.eliteaffaere.de
 *.eliteflirt.de
 *.ellaclothy.com
-*.ellalady.com
 *.ellalily.com
 *.ellameyer.de
 *.ellecloset.com
@@ -2552,6 +2550,7 @@
 *.julireh.com
 *.juretro.com
 *.justclothes.club
+*.de.justfashionnow.com
 *.justlo.tv
 *.justshopbetter.com
 *.justshopy4u.com
@@ -3646,6 +3645,7 @@
 *.ostergartenhermesdorf.de
 *.osterreichschuheonlineshop.com
 *.otto-angebote.de
+*.ouraltis.de
 *.ourclothes.club
 *.ourjewellery.club
 *.outdoor-bronco.com
@@ -5350,7 +5350,6 @@
 *.yeezyadidas.de
 *.yellowpost.de
 *.yenisei-sport.ru
-*.yhealing.top
 *.yivette.com
 *.yiyter.com
 *.ynnter.com

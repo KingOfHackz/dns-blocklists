@@ -19,7 +19,10 @@ c00.adobe.com
 *.cc-api-data.adobe.io
 
 # Amazon AWS
+aws.amazon.com
+bbuseruploads.s3.amazonaws.com
 kinesis.*.amazonaws.com
+s3.amazonaws.com
 
 # Amazon Devices
 *.acsechocaptiveportal.com
@@ -29,6 +32,7 @@ kinesis.*.amazonaws.com
 api*.amazonalexa.com
 arcus-*.amazon.com
 avs-alexa*.amazon.com
+d3p8zr0ffa9t17.cloudfront.net
 dcape-*.amazon.com
 dp-gw-*.amazon.com
 dxz5jxhrrzigf.cloudfront.net
@@ -39,7 +43,7 @@ web.diagnostic.networking.aws.dev
 # https://github.com/Perflyst/PiHoleBlocklist/issues/138
 mas-*.amazon.com
 
-# Amazon Shopping (in-app links)
+# Amazon Shopping / Apps
 *.images-amazon.com
 aax-*-retail-direct.amazon-adsystem.com
 aax-*-retail-direct.amazon.com
@@ -59,7 +63,53 @@ aax-fe.amazon.co.jp
 aax-fe.amazon.com
 aax-fe.amazon.com.au
 aax-fe.amazon.sg
-# c.amazon-adsystem.com
+c.amazon-adsystem.com
+fls-cn.amazon.cn
+fls-eu.amazon-adsystem.com
+fls-eu.amazon.ae
+fls-eu.amazon.ca
+fls-eu.amazon.co.uk
+fls-eu.amazon.com
+fls-eu.amazon.com.be
+fls-eu.amazon.com.tr
+fls-eu.amazon.de
+fls-eu.amazon.eg
+fls-eu.amazon.es
+fls-eu.amazon.fr
+fls-eu.amazon.in
+fls-eu.amazon.it
+fls-eu.amazon.nl
+fls-eu.amazon.pl
+fls-eu.amazon.sa
+fls-eu.amazon.se
+fls-fe-opf.amazon.com
+fls-fe.amazon-adsystem.com
+fls-fe.amazon.co.jp
+fls-fe.amazon.com
+fls-fe.amazon.com.au
+fls-fe.amazon.sg
+fls-na.amazon-adsystem.com
+fls-na.amazon.ca
+fls-na.amazon.com
+fls-na.amazon.com.br
+fls-na.amazon.com.mx
+# CNAME fls-*.amazon.com
+*.forester.a2z.com
+unagi-fe.amazon.com
+unagi-na.amazon.com
+ipv6.unagi-na.amazon.com
+unagi.amazon.co.jp
+unagi.amazon.com
+
+# Amazon Video
+*.aiv-cdn.net
+*.aiv-cdn.net.c.footprint.net
+*.aiv-delivery.net
+*.amazonvideo.com
+*.atv-ext*.amazon.com
+*.atv-ps.amazon.com
+*.primevideo.com
+*.pv-cdn.net
 
 # Apple
 # https://support.apple.com/en-us/HT210060
@@ -67,19 +117,34 @@ aax-fe.amazon.sg
 *.cdn-apple.com
 *.gc.apple.com
 *.gc.fe.apple-dns.net
+*.push.apple.com
 *.safebrowsing.apple
 *.smoot.apple.com
-*.push.apple.com
+# Breaks Apple Watch update, stucks on "Search for update"
+*.xp.apple.com
+apple-dns.net
+apple.tt.omtrdc.net
 c.apple.com
 cstat.apple.com
 inappcheck*.apple.com
 iphone-ld.apple.com
+iphone-ld.origin-apple.com.akadns.net
 ocsp*.apple.com
 smp-device-content.apple.com
 stats.gc.apple.com
 trackingshipment.apple.com
-# Breaks Apple Watch update, stucks on "Search for update"
-*.xp.apple.com
+
+# Certificates
+*.digicert.com
+*.entrust.net
+*.geotrust.com
+*.lencr.org
+*.verisign.net
+
+# Cloudflare
+cdn.cloudflare.net
+cdnjs.cloudflare.co
+cdnjs.cloudflare.com
 
 # Facebook
 *graph-fallback.facebook.com
@@ -98,6 +163,7 @@ i.instagram.com
 
 # Google
 afs.googleusercontent.com
+ajax.googleapis.com
 analyticsinsights-pa.googleapis.com
 analyticssearch-pa.googleapis.com
 appspot-preview.l.google.com
@@ -109,7 +175,11 @@ firebasedynamiclinks-ipv6.googleapis.com
 firebasedynamiclinks.googleapis.com
 firebaseinappmessaging.googleapis.com
 firebaseinstallations.googleapis.com
+firebaseremoteconfig.googleapis.com
+firebasestorage.googleapis.com
 fonts.google.com
+fonts.googleapis.com
+fonts.gstatic.com
 footprints-pa.googleapis.com
 geller-pa.googleapis.com
 geomobileservices-pa.googleapis.com
@@ -212,11 +282,15 @@ syndication.twitter.com
 t.co
 
 # Youtube
+*.googlevideo.com
+*.ytimg.com
 i.ytimg.com
 i1.ytimg.com
 s.youtube.com
 s.ytimg.com
 s2.youtube.com
+youtu.be
+youtube-nocookie.com
 
 # -----------------------------------------------------------------------
 
@@ -2074,4 +2148,20 @@ s50.device.marketingcloudapis.com
 
 # https://github.com/hagezi/dns-blocklists/issues/243
 review-rating.mncdn.com
+
+# https://github.com/hagezi/dns-blocklists/issues/244
+a2zapk.com
+
+# privacy-focussed cybersecurity company
+polygraph.net
+
+# https://github.com/hagezi/dns-blocklists/issues/245
+serviceschipotlecom.trafficmanager.net
+services.chipotle.com
+
+# https://github.com/hagezi/dns-blocklists/issues/246
+saweria.co
+
+# https://github.com/hagezi/dns-blocklists/issues/247
+h-microsoft.online-metrix.net
 

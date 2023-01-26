@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 24 Jan 2023 23:28 UTC
-# Version: 2023.0124.2328.22
+# Last modified: 26 Jan 2023 13:27 UTC
+# Version: 2023.0126.1327.06
 # Syntax: Hosts
-# Domains: 10376
+# Domains: 10350
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -1171,8 +1171,6 @@
 0.0.0.0 www.blunada.de
 0.0.0.0 blushysilk.com
 0.0.0.0 www.blushysilk.com
-0.0.0.0 blvcks.com
-0.0.0.0 www.blvcks.com
 0.0.0.0 bmw-e36.de
 0.0.0.0 www.bmw-e36.de
 0.0.0.0 bntol-mietwagen.de
@@ -2823,7 +2821,6 @@
 0.0.0.0 www.eliteflirt.de
 0.0.0.0 ellaclothy.com
 0.0.0.0 www.ellaclothy.com
-0.0.0.0 ellalady.com
 0.0.0.0 ellalily.com
 0.0.0.0 www.ellalily.com
 0.0.0.0 ellameyer.de
@@ -4862,6 +4859,7 @@
 0.0.0.0 www.juretro.com
 0.0.0.0 justclothes.club
 0.0.0.0 www.justclothes.club
+0.0.0.0 de.justfashionnow.com
 0.0.0.0 justlo.tv
 0.0.0.0 www.justlo.tv
 0.0.0.0 justshopbetter.com
@@ -6952,6 +6950,8 @@
 0.0.0.0 www.osterreichschuheonlineshop.com
 0.0.0.0 otto-angebote.de
 0.0.0.0 www.otto-angebote.de
+0.0.0.0 ouraltis.de
+0.0.0.0 www.ouraltis.de
 0.0.0.0 ourclothes.club
 0.0.0.0 www.ourclothes.club
 0.0.0.0 ourjewellery.club
@@ -7570,7 +7570,6 @@
 0.0.0.0 reborndollsshop.com
 0.0.0.0 www.reborndollsshop.com
 0.0.0.0 reborntraumland.de
-0.0.0.0 www.reborntraumland.de
 0.0.0.0 backpack.recallstore.com
 0.0.0.0 recetasplus.com
 0.0.0.0 www.recetasplus.com
@@ -7618,11 +7617,9 @@
 0.0.0.0 reifen-altendorf.de
 0.0.0.0 www.reifen-altendorf.de
 0.0.0.0 reifen-glaser.de
-0.0.0.0 www.reifen-glaser.de
 0.0.0.0 reifen-petlas.de
 0.0.0.0 www.reifen-petlas.de
 0.0.0.0 reifenhandel-ross.de
-0.0.0.0 www.reifenhandel-ross.de
 0.0.0.0 reinekedesign.com
 0.0.0.0 www.reinekedesign.com
 0.0.0.0 reinhardorense.at
@@ -7718,7 +7715,6 @@
 0.0.0.0 rheinadler.com
 0.0.0.0 www.rheinadler.com
 0.0.0.0 rheinarche.de
-0.0.0.0 www.rheinarche.de
 0.0.0.0 rheinash.com
 0.0.0.0 www.rheinash.com
 0.0.0.0 rheineule.de
@@ -7811,7 +7807,6 @@
 0.0.0.0 rogoengineering.com
 0.0.0.0 www.rogoengineering.com
 0.0.0.0 rohr-reinigung24.at
-0.0.0.0 www.rohr-reinigung24.at
 0.0.0.0 rohrreinigung--24.at
 0.0.0.0 www.rohrreinigung--24.at
 0.0.0.0 rohrreinigung24-7.at
@@ -7914,7 +7909,6 @@
 0.0.0.0 runningexperience.de
 0.0.0.0 www.runningexperience.de
 0.0.0.0 russellbromleyschuhe.com
-0.0.0.0 www.russellbromleyschuhe.com
 0.0.0.0 rusticjusticerecords.com
 0.0.0.0 www.rusticjusticerecords.com
 0.0.0.0 rutika.de
@@ -7940,7 +7934,6 @@
 0.0.0.0 sakaziq.com
 0.0.0.0 www.sakaziq.com
 0.0.0.0 salcarriers.com
-0.0.0.0 www.salcarriers.com
 0.0.0.0 salesconsulter.de
 0.0.0.0 www.salesconsulter.de
 0.0.0.0 saleshyanne.com
@@ -8092,7 +8085,6 @@
 0.0.0.0 schmerzmittel-rezeptfrei.com
 0.0.0.0 www.schmerzmittel-rezeptfrei.com
 0.0.0.0 schmidt-reifenversand.de
-0.0.0.0 www.schmidt-reifenversand.de
 0.0.0.0 schmitt-drogerie.com
 0.0.0.0 schmukkedeern.de
 0.0.0.0 www.schmukkedeern.de
@@ -8345,14 +8337,12 @@
 0.0.0.0 sikarint.com
 0.0.0.0 www.sikarint.com
 0.0.0.0 sikatechnologie.com
-0.0.0.0 www.sikatechnologie.com
 0.0.0.0 silameraviglia.it
 0.0.0.0 www.silameraviglia.it
 0.0.0.0 silkandcotton.store
 0.0.0.0 www.silkandcotton.store
 0.0.0.0 silkbers.com
 0.0.0.0 sima-trans.com
-0.0.0.0 www.sima-trans.com
 0.0.0.0 similaun.at
 0.0.0.0 www.similaun.at
 0.0.0.0 simon-immo.com
@@ -8479,11 +8469,9 @@
 0.0.0.0 solar-starter.de
 0.0.0.0 www.solar-starter.de
 0.0.0.0 solar-traum.de
-0.0.0.0 www.solar-traum.de
 0.0.0.0 solarcheck.at
 0.0.0.0 www.solarcheck.at
 0.0.0.0 solargiebel.de
-0.0.0.0 www.solargiebel.de
 0.0.0.0 solarnetz.at
 0.0.0.0 www.solarnetz.at
 0.0.0.0 solarrichter.net
@@ -8686,7 +8674,6 @@
 0.0.0.0 stockcoinplus.com
 0.0.0.0 www.stockcoinplus.com
 0.0.0.0 stocks-views.com
-0.0.0.0 www.stocks-views.com
 0.0.0.0 stoeberlaedele.de
 0.0.0.0 www.stoeberlaedele.de
 0.0.0.0 stoersender24.com
@@ -8736,7 +8723,6 @@
 0.0.0.0 strongstrongsupply.com
 0.0.0.0 www.strongstrongsupply.com
 0.0.0.0 strowcrue.net
-0.0.0.0 www.strowcrue.net
 0.0.0.0 studio-aktivplus.de
 0.0.0.0 www.studio-aktivplus.de
 0.0.0.0 studiolavela.com
@@ -8867,7 +8853,6 @@
 0.0.0.0 szdafanl.com
 0.0.0.0 www.szdafanl.com
 0.0.0.0 szzving.shop
-0.0.0.0 www.szzving.shop
 0.0.0.0 t7cafe.de
 0.0.0.0 www.t7cafe.de
 0.0.0.0 tabakshop2000.de
@@ -9062,7 +9047,6 @@
 0.0.0.0 thecraftssewing.com
 0.0.0.0 www.thecraftssewing.com
 0.0.0.0 thediemtoken.com
-0.0.0.0 www.thediemtoken.com
 0.0.0.0 thefacejacketbest.de
 0.0.0.0 www.thefacejacketbest.de
 0.0.0.0 thefraks.de
@@ -9379,18 +9363,14 @@
 0.0.0.0 trusted-shop-nr18374.de
 0.0.0.0 www.trusted-shop-nr18374.de
 0.0.0.0 trusted-shop-nr2803.de
-0.0.0.0 www.trusted-shop-nr2803.de
 0.0.0.0 trusted-shop-nr3821.de
 0.0.0.0 trusted-shop-nr3892.de
 0.0.0.0 www.trusted-shop-nr3892.de
 0.0.0.0 trusted-shop-nr4038.de
-0.0.0.0 www.trusted-shop-nr4038.de
 0.0.0.0 trusted-shop-nr8160.de
 0.0.0.0 www.trusted-shop-nr8160.de
 0.0.0.0 trusted-shop-nr8391.de
-0.0.0.0 www.trusted-shop-nr8391.de
 0.0.0.0 trusted-shop-nr8392.de
-0.0.0.0 www.trusted-shop-nr8392.de
 0.0.0.0 trustedmedstore24.com
 0.0.0.0 www.trustedmedstore24.com
 0.0.0.0 trustedrxsolutions.com
@@ -9497,7 +9477,6 @@
 0.0.0.0 unconstituted.com
 0.0.0.0 www.unconstituted.com
 0.0.0.0 unibail-assets.com
-0.0.0.0 www.unibail-assets.com
 0.0.0.0 unikstors.com
 0.0.0.0 www.unikstors.com
 0.0.0.0 uniqdsn.com
@@ -9882,7 +9861,6 @@
 0.0.0.0 wanparky.com
 0.0.0.0 www.wanparky.com
 0.0.0.0 warenhaus-vries.de
-0.0.0.0 www.warenhaus-vries.de
 0.0.0.0 warenholzmarkt.de
 0.0.0.0 www.warenholzmarkt.de
 0.0.0.0 wasserspender-deutschland.de
@@ -10085,7 +10063,6 @@
 0.0.0.0 winterfallkits.de
 0.0.0.0 www.winterfallkits.de
 0.0.0.0 winterstiefelsale.at
-0.0.0.0 www.winterstiefelsale.at
 0.0.0.0 winterzone.com
 0.0.0.0 www.winterzone.com
 0.0.0.0 wipideal.de
@@ -10227,7 +10204,6 @@
 0.0.0.0 xspiegel.de
 0.0.0.0 www.xspiegel.de
 0.0.0.0 xuqoo.de
-0.0.0.0 www.xuqoo.de
 0.0.0.0 xxonnect.com
 0.0.0.0 www.xxonnect.com
 0.0.0.0 xxxlcatering.at
@@ -10246,8 +10222,6 @@
 0.0.0.0 www.yellowpost.de
 0.0.0.0 yenisei-sport.ru
 0.0.0.0 www.yenisei-sport.ru
-0.0.0.0 yhealing.top
-0.0.0.0 www.yhealing.top
 0.0.0.0 yivette.com
 0.0.0.0 www.yivette.com
 0.0.0.0 yiyter.com
